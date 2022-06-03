@@ -10,7 +10,6 @@
 		70805302660E18B3C7B5A2B6 /* libPods-SeriesApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 54806CD1A30F24A328C75670 /* libPods-SeriesApp.a */; };
 		9995369A2846478300924C42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999536992846478300924C42 /* AppDelegate.swift */; };
 		9995369C2846478300924C42 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9995369B2846478300924C42 /* SceneDelegate.swift */; };
-		9995369E2846478300924C42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9995369D2846478300924C42 /* ViewController.swift */; };
 		999536A32846478800924C42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 999536A22846478800924C42 /* Assets.xcassets */; };
 		999536A62846478800924C42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 999536A42846478800924C42 /* LaunchScreen.storyboard */; };
 		999536B12846478800924C42 /* SeriesAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999536B02846478800924C42 /* SeriesAppTests.swift */; };
@@ -75,7 +74,6 @@
 		999536962846478300924C42 /* SeriesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeriesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		999536992846478300924C42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9995369B2846478300924C42 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9995369D2846478300924C42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		999536A22846478800924C42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		999536A52846478800924C42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		999536A72846478800924C42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -174,7 +172,6 @@
 				999536C928464C6300924C42 /* Features */,
 				999536992846478300924C42 /* AppDelegate.swift */,
 				9995369B2846478300924C42 /* SceneDelegate.swift */,
-				9995369D2846478300924C42 /* ViewController.swift */,
 				999536A22846478800924C42 /* Assets.xcassets */,
 				999536A42846478800924C42 /* LaunchScreen.storyboard */,
 				999536A72846478800924C42 /* Info.plist */,
@@ -642,7 +639,6 @@
 				999536FE284917BC00924C42 /* SeriesCell.swift in Sources */,
 				99953723284985D800924C42 /* Extension+Date.swift in Sources */,
 				9995371A284962D500924C42 /* SerieDetailsViewController.swift in Sources */,
-				9995369E2846478300924C42 /* ViewController.swift in Sources */,
 				99953718284954F200924C42 /* UICollectionView+Extension.swift in Sources */,
 				9995369A2846478300924C42 /* AppDelegate.swift in Sources */,
 				999536F22847EC9600924C42 /* SeriesListCoordinator.swift in Sources */,
