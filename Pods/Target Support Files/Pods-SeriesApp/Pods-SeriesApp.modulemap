@@ -1,0 +1,6 @@
+module Pods_SeriesApp {
+  umbrella header "Pods-SeriesApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
